@@ -814,13 +814,7 @@ export default class Dep {
 
 vue2 源码结构非常清晰，读者如果自己做框架和工具的话，可以参考这个经典框架的源码。
 
------
-
-## 最后
-
-MVVM 涉及的内容、代码都很多，虽然是快速了解，但是篇幅也很大。外加自己也是现学现卖，难免有些杂乱，读者如有问题或者建议，欢迎给我 [提交 issue](https://github.com/wangfupeng1988/learn-vue2-mvvm/issues) 。
-
--------
+----
 
 ## 参考链接
 
